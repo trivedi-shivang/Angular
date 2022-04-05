@@ -1,0 +1,8 @@
+/* will apply following local styles to app.component.css */
+h3 {
+  color: dodgerblue;
+}
+
+.color-white {
+  color: white;
+}
